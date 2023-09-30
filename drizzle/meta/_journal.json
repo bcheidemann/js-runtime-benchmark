@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1696108350128,
+      "tag": "0000_silky_timeslip",
+      "breakpoints": true
+    }
+  ]
+}
